@@ -41,4 +41,16 @@ List of Sample APIs
   - note
     - city is optional
     
+#### Get all zone names by country code
+- url : /api/date/get-all-zone-names-by-country-code
+- header : 
+  - Content-Type : application/json
+- sample json body request : 
+
+ ```json
+{
+  "country_code": "us"
+}
+```
+    
 
