@@ -4,7 +4,7 @@ List of Sample APIs
 
 ## Installation
 
-1. Download Code
+1. Git clone 
 2. run : npm install 
 3. run : npm start
 
