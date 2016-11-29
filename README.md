@@ -8,6 +8,9 @@ List of Sample APIs
 2. run : npm install 
 3. run : npm start
 
+## Credits
+1. https://timezonedb.com/ 
+
 ## APIs
 
 #### Convert date based on country code and city
